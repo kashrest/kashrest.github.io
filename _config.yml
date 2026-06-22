@@ -23,9 +23,9 @@ repository               : "kashrest/kashrest.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "kaleen-shrestha-headshot.JPG"
   name             : "Kaleen Shrestha"
-  pronouns         : "she/her"  
+  pronouns         : "she/her/hers"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Los Angeles & San Jose, CA"
   employer         : "University of Southern California"
