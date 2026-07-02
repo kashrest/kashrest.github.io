@@ -17,3 +17,6 @@ I am currently in my 3rd year studying Computer Science at the University of Sou
 I am fascinated with robots, and the **interaction between humans and robots/technology for the purpose of fun and improving our connection with other people**. I am working on computational problems relevant to human-robot interaction, with a specific focus on **socially assistive robots**. Some of my recent work involves **linguistic and multimodal modeling of cognitive-affective states** (e.g. engagement) for human-robot/computer interaction applications that focus on developing the **social skills of children**.
 
 
+**Current news**
+
+I will be in San Diego for ACL 2026, so feel free to reach out if you would like to chat. My recent paper [Can Large Language Models Infer Human Actions and Motives? Evaluation in Social Prediction and Inspection Games](https://aclanthology.org/2026.findings-acl.1641/) was accepted to findings, and so I will presenting a poster on it. 
